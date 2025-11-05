@@ -1392,7 +1392,7 @@ BuildUI = function()
 
     Tabs.PumpkinHunt:Paragraph("ZombiePumpkinInfo", {
         Title = "Zombie Pumpkin",
-        Content = "In order to get this egg, you need to spin the Halloween Wheel (100m one) 5 times, and then craft a few golden monkeys from the Jungle Egg. You need to have the hints unlocked, so use the button above. Sorry I didn't automate this, I'm too lazy 💀"
+        Content = "5 tane 100 milyonluk halloween çarkı çevirdikten sonra Jungle Bölgesinden bi kaç golden maymun yap"
     })
 
     -- Final UI setup calls
